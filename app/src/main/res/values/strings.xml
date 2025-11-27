@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">calculate_temputer</string>
+    <string name="app_display_name">工具助手</string>
+    <string name="tab_calculator">计算器</string>
+    <string name="tab_weather">天气</string>
+    <string name="tab_profile">我的</string>
+    <string name="calculator_subtitle">基础加减乘除（待上线）</string>
+    <string name="calculator_placeholder_title">计算器功能占位</string>
+    <string name="calculator_placeholder_desc">按照微信的交互切换到这个页面，预留输入区域与按钮，后续补上运算逻辑。</string>
+    <string name="calculator_action_disabled">即将推出</string>
+    <string name="weather_subtitle">查看天气、按城市查询</string>
+    <string name="weather_quick_peek_title">直接查看天气</string>
+    <string name="weather_quick_peek_desc">预留接口：后续自动获取当前位置天气数据。</string>
+    <string name="weather_current_city_placeholder">当前城市（待接入）</string>
+    <string name="weather_search_title">按城市查询</string>
+    <string name="weather_search_desc">预留输入框和按钮，之后接入查询接口。</string>
+    <string name="weather_input_hint">输入城市名称</string>
+    <string name="weather_search_button_label">查询</string>
+    <string name="profile_nickname">小助手</string>
+    <string name="profile_status">保持在线，随时待命</string>
+    <string name="profile_id">微信号：wx_helper_demo</string>
+    <string name="profile_edit_hint">编辑个人信息</string>
+    <string name="profile_calculator_entry">计算器</string>
+    <string name="profile_calculator_desc">简单四则运算，稍后上线</string>
+    <string name="profile_weather_entry">天气查询</string>
+    <string name="profile_weather_desc">城市搜索 / 直接查看天气</string>
+    <string name="profile_settings_entry">设置</string>
+    <string name="profile_settings_desc">预留的个人中心与设置入口</string>
+    <string name="profile_avatar_content_description">个人头像</string>
+</resources>
