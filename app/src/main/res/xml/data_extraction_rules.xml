@@ -10,7 +10,7 @@
         <exclude .../>
         -->
     </cloud-backup>
-    <!--
+    <!--sou
     <device-transfer>
         <include .../>
         <exclude .../>
